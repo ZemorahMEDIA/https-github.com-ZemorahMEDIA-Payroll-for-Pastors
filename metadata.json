@@ -1,0 +1,6 @@
+{
+  "name": "MISSION CHRÉTIENNE FONTAINE DE VIE",
+  "description": "Système de paie pour ministres du culte - Mission Chrétienne Fontaine de Vie. Calculateur de retenues d'impôt du Québec et déduction pour résidence d'ecclésiastique (DRE) 2025/26.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["Financial Calculations", "Quebec Tax Logic"]
+}
